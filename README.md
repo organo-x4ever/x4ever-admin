@@ -3,4 +3,5 @@ Angular API Calls with Django: Authentication with JWT
 
 DESCRIPTION: X4Ever Admin front end developed using angular and back end using python django.
 
+REF: https://www.metaltoad.com/blog/angular-api-calls-django-authentication-jwt
 
